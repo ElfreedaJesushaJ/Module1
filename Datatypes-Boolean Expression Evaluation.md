@@ -31,7 +31,8 @@ print("d:", d)
 ```
 
 ## Output
-![o2](https://github.com/user-attachments/assets/f11c31a7-583d-4eca-9b8b-4104321494eb)
+![Screenshot 2025-04-29 115031](https://github.com/user-attachments/assets/5781dec6-c3e4-478a-9e62-d24388b2d5e0)
+
 
 ## Result
  A Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`,is successfully executed.
